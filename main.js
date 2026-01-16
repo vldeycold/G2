@@ -11,7 +11,7 @@ function joinWhatsAppGroup() {
 }
 
 function openFacebookPage() {
-    window.open("https://www.facebook.com/share/1AHBZiuybF/");
+    window.open("https://www.facebook.com/profile.php?id=61586112730430");
 }
 
 
@@ -29,6 +29,7 @@ if (videoOverlay) {
         this.remove(); // setelah klik pertama, video bisa dikontrol normal
     });
 }
+
 
 
 
